@@ -1,1 +1,1 @@
-This repo contains applicstions that were built while learning react js 
+This repo contains applications that were built while learning react js 
