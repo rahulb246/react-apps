@@ -1,0 +1,14 @@
+.image-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    /* automatically asign no. of columns */
+    grid-gap: 0 10px;
+    /* 0 gap bw rows, 10px gap bw columns */
+    grid-auto-rows: 10px;
+    /* sets row height to 10px by default */
+}
+
+.image-list img {
+    width: 250px;
+    grid-row-end: span 2 ;
+}
