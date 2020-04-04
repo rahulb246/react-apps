@@ -11,7 +11,7 @@ Concepts used :
 
 This project was bootstrapped with Create React App.
 
-### npx create-react-app components
+### npx create-react-app seasons
 creates react app with name jsx with required nodemodules. Then clear the files in src folder and replace them with the one's in this repo. Also replace in default index.html with the one in this repo.
 
 ### npm start
