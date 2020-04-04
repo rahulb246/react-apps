@@ -2,8 +2,10 @@ This app shows list of videos from youtube API based on the users input. Below i
 
 ![demo pic](https://github.com/rahulb246/react-apps/blob/master/5-videos/img1.png)
 
-### npx create-react-app components
+### npx create-react-app videos
 creates react app with name jsx with required nodemodules. Then clear the files in src folder and replace them with the one's in this repo. Also replace in default index.html with the one in this repo.
+
+### npm install --save axios
 
 Also, create a google developer console API project, create an API key for youtube API and use it in api/youtube.js
 
