@@ -1,4 +1,4 @@
-This app is to get started with using redux with react. This app shows details of a song selected from a list of static list of songs. 
+This app is to get started with using redux with react. This app shows details of a song selected from a static list of songs. 
 
 
 ### npx create-react-app songs
