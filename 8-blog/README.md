@@ -1,4 +1,4 @@
-This app helps to explore more about redux store and using redux-thunk middleware. This app shows blog posts details by making API requests using axis to https://jsonplaceholder.typicode.com. 
+This app helps to explore more about redux store and using redux-thunk middleware. This app shows blog posts details by making API requests using axios to https://jsonplaceholder.typicode.com. 
 
 ### npx create-react-app songs
 creates react app with name jsx with required nodemodules. Then clear the files in src folder and replace them with the one's in this repo. Also replace in default index.html with the one in this repo.
